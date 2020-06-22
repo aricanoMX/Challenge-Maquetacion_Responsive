@@ -8,11 +8,11 @@
 ![Imgur](https://i.imgur.com/p1w5iJg.png)
 
 ### Clon
-![Imgur](https://i.imgur.com/E6eBEtO.png)
-![Imgur](https://i.imgur.com/0R3imxX.png)
+![Imgur](https://i.imgur.com/E6eBEtOm.png)
+![Imgur](https://i.imgur.com/0R3imxXs.png)
 
 #### Instrucciones:
 
 - _Unicamente presiona el link que te dejo abajo_
 
-[Ver Proyecto](https://aricanomx.github.io/PM_Reto-Maquetacion-Medio/)
+[Ver Proyecto](https://aricanomx.github.io/PM_Reto-Maquetacion-Responsive/)

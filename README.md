@@ -9,7 +9,7 @@
 
 ### Clon
 ![Imgur](https://i.imgur.com/E6eBEtOl.png)
-![Imgur](https://i.imgur.com/0R3imxXl.png)
+![Imgur](https://i.imgur.com/0R3imxXm.png)
 
 #### Instrucciones:
 

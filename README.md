@@ -5,6 +5,7 @@
 - Este Reto consiste en elaborar un clon del ejercicio proporcionado por el couch haciendo uso de todas nuetras habilidades de maquetación adaptando un diseño con responsive design.
 
 ### Original
+![Imgur](https://i.imgur.com/p1w5iJg.png)
 
 ### Clon
 

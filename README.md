@@ -8,7 +8,7 @@
 ![Imgur](https://i.imgur.com/p1w5iJg.png)
 
 ### Clon
-![Imgur](https://i.imgur.com/E6eBEtOm.png)
+![Imgur](https://i.imgur.com/E6eBEtOl.png)
 ![Imgur](https://i.imgur.com/0R3imxXs.png)
 
 #### Instrucciones:
